@@ -1,5 +1,8 @@
 # rime-prelude
 
+这个是rime的默认配置，但是shift+space切换全角平时打字实在没什么用，还经常误触（shift切换英文）
+所以干脆注释掉。
+
 配方： ℞ **prelude**
 
 [Rime](http://rime.im) 輸入法基礎配置
